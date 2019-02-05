@@ -6,7 +6,7 @@
 개발환경 구축 방법
 -------------
 
-리눅스 환경에서 다음 명령어를 실행합니다.
+##### 리눅스 환경에서 다음 명령어를 실행합니다.
 - <code>mkdir workspace</code>    
 - <code>cd workspace</code>    
 - <code>git clone https://github.com/h4ppyy/protectgrass</code>    
